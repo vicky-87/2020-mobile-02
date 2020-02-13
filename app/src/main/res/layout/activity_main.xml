@@ -96,7 +96,7 @@
         android:id="@+id/enterguest"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enter as a"
+        android:text="Enter as guest"
         android:fontFamily="@font/futura_pt_demibold"
         app:layout_constraintTop_toBottomOf="@+id/service"
         app:layout_constraintStart_toStartOf="parent"
